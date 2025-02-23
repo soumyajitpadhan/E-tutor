@@ -46,7 +46,7 @@ const Category = () => {
             <div className="text-center mt-12 flex flex-col sm:flex-row items-center justify-center gap-3">
                 <span className='text-sm md:text-base'>We have more categories & subcategories.</span>
                 <a href="#" className="text-orange-500 font-semibold flex items-center gap-2 text-sm md:text-base hover:text-orange-600 transition-colors">
-                    Browse All <MoveRight />
+                    Browse All <MoveRight size={20} />
                 </a>
             </div>
         </div>

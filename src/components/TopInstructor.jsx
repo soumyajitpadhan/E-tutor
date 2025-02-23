@@ -43,7 +43,7 @@ const TopInstructor = () => {
             <div className="text-center mt-12 flex flex-col sm:flex-row justify-center items-center gap-3">
                 <span className="text-sm text-center sm:text-left">Thousands of students waiting for an instructor. Start teaching & earning now!</span>
                 <a href="#" className="text-orange-500 font-semibold flex gap-2 items-center text-sm">
-                    Become Instructor <MoveRight size={20} className='mt-1'/>
+                    Become Instructor <MoveRight size={20} className='mt-1' />
                 </a>
             </div>
         </div>

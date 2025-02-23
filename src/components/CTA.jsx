@@ -25,7 +25,7 @@ const CTA = () => {
 
                 {/* Right Section */}
                 <div>
-                    <h3 className="text-2xl md:text-3xl font-semibold text-gray-900 mb-6 text-center md:text-left">Your teaching & earning steps</h3>
+                    <h3 className="text-2xl md:text-3xl font-semibold text-gray-900 mb-6 text-left">Your teaching & earning steps</h3>
                     <div className="space-y-4 grid grid-cols-1 sm:grid-cols-2">
                         {[
                             { step: 1, text: "Apply to become an instructor", color: "text-blue-500", background: "bg-blue-100" },
@@ -34,7 +34,7 @@ const CTA = () => {
                             { step: 4, text: "Start teaching & earning", color: "text-green-500", background: "bg-green-100" },
                         ].map(({ step, text, color, background }) => (
                             <div key={step} className="flex items-center">
-                                <span className={`font-bold text-lg md:text-xl ${color} ${background} p-5 md:p-6 w-10 h-10 flex items-center justify-center rounded-full mr-4`}> 
+                                <span className={`font-bold text-lg md:text-xl ${color} ${background} p-5 md:p-6 w-10 h-10 flex items-center justify-center rounded-full mr-4`}>
                                     {step}
                                 </span>
                                 <p className="text-gray-700 text-sm md:text-base">{text}</p>

@@ -62,7 +62,7 @@ const Footer = () => {
                     </div>
 
                     {/* Right Section */}
-                    <div className='w-full md:w-full grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8 md:px-5 lg:px-8 xl:px-0'>
+                    <div className='w-full md:w-full grid grid-cols-2 md:grid-cols-4 gap-8 md:px-5 lg:px-8 xl:px-0'>
                         {/* Top 4 Category */}
                         <div className='flex flex-col gap-5'>
                             <h3 className='uppercase text-base font-semibold'>Top 4 Category</h3>

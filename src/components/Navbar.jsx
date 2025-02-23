@@ -66,7 +66,7 @@ const Navbar = () => {
                 </div>
 
                 {/* Medium & Small Screen Menu Button (Visible on md and below) */}
-                <button className="lg:hidden text-gray-600" onClick={() => setIsMenuOpen(!isMenuOpen)}>
+                <button className="lg:hidden text-gray-600 cursor-pointer" onClick={() => setIsMenuOpen(!isMenuOpen)}>
                     {isMenuOpen ? <X size={28} /> : <Menu size={28} />}
                 </button>
             </div>

@@ -19,10 +19,10 @@ const Header = () => {
 
             {/* Image Section */}
             <div className="w-full flex justify-center lg:justify-end">
-                <img 
-                    src={Header_Image} 
-                    alt="Header Image" 
-                    className="max-w-full h-auto xl:w-[850px] xl:h-[548px]" 
+                <img
+                    src={Header_Image}
+                    alt="Header Image"
+                    className="max-w-full h-auto xl:w-[850px] xl:h-[548px]"
                 />
             </div>
         </div>
