@@ -6,4 +6,5 @@ E-tutor is an online learning platform designed to provide interactive and perso
 ## 🌐 Deploy Link
 
 You can view the live version of E-tutor website here:  
-- **Netlify**: [**https://autovate.netlify.app/**]
+- **Netlify**: <a href="https://etutor-platform.netlify.app/" target="_blank" rel="noopener noreferrer">**E-tutor Platform**</a>
+
