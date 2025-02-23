@@ -1,8 +1,9 @@
-# React + Vite
+# E-tutor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+E-tutor is an online learning platform designed to provide interactive and personalized education to students. The platform offers various courses, live tutoring sessions, and learning resources to enhance the learning experience.
 
-Currently, two official plugins are available:
+## 🌐 Deploy Link
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can view the live version of E-tutor website here:  
+- **Netlify**: [**https://autovate.netlify.app/**]
