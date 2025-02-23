@@ -17,7 +17,7 @@ const TrustedCompanies = () => {
                     <div className="lg:w-1/2 text-center lg:text-left">
                         <p className="text-3xl font-semibold">6.3k Trusted Companies</p>
                         <p className="text-sm text-gray-500 mt-3">
-                            Nullam egestas tellus at enim ornare tristique. Class aptent taciti sociosqu ad litora torquent per conubia nostra.
+                            Industry leaders trust E-Tutor to upskill their workforce with interactive and personalized learning solutions.
                         </p>
                     </div>
 

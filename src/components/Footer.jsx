@@ -40,7 +40,7 @@ const Footer = () => {
                             <a href="#" className='text-3xl font-semibold'>E-tutor</a>
                         </div>
                         <p className='text-gray-500 text-sm font-semibold text-center lg:text-left'>
-                            Aliquam rhoncus ligula est, non pulvinar elit convallis nec. Donec mattis odio at.
+                            Empowering students with interactive and personalized learning.
                         </p>
                         <div className='flex gap-3 justify-center'>
                             <div className='bg-[#363B4766] w-10 h-10 flex justify-center items-center cursor-pointer'>
@@ -116,7 +116,7 @@ const Footer = () => {
             <div className='max-w-7xl m-auto flex flex-col-reverse sm:flex-row justify-between items-center py-4 px-5'>
                 <div className='text-center sm:text-left'>
                     <p className='text-[#8C94A3] text-sm sm:text-base font-semibold'>
-                        © 2021 - Eduflex. Designed by <span className='text-white'>Templatecookie</span>. All rights reserved
+                        © 2025 - E-Tutor. Designed by <span className='text-white'>Soumyajit Padhan</span>. All rights reserved.
                     </p>
                 </div>
                 <div className='flex items-center border border-[#363B47] gap-10 sm:gap-20 px-4 py-2 mb-4 sm:mb-0 cursor-pointer'>
