@@ -11,7 +11,7 @@ const CTA = () => {
                     <div className="max-w-xs text-center md:text-left">
                         <h2 className="text-2xl md:text-3xl font-bold mb-4">Become an instructor</h2>
                         <p className="mb-6 text-sm">
-                            Instructors from around the world teach millions of students on Udemy.
+                            Instructors from around the world teach millions of students on e-tutor.
                             We provide the tools and skills to teach what you love.
                         </p>
                         <button className="bg-white text-orange-500 px-5 py-2 font-semibold cursor-pointer flex items-center justify-center gap-2 mx-auto md:mx-0">
